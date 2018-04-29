@@ -1,0 +1,7 @@
+﻿  Derived.cpp
+g:\visual studio\cpp\inheritance_test\inheritance_test\derived.cpp(18): error C2385: ambiguous access of 'a'
+  g:\visual studio\cpp\inheritance_test\inheritance_test\derived.cpp(18): note: could be the 'a' in base 'ClassA'
+  g:\visual studio\cpp\inheritance_test\inheritance_test\derived.cpp(18): note: or could be the 'a' in base 'ClassB'
+g:\visual studio\cpp\inheritance_test\inheritance_test\derived.cpp(18): error C2385: ambiguous access of 'b'
+  g:\visual studio\cpp\inheritance_test\inheritance_test\derived.cpp(18): note: could be the 'b' in base 'ClassA'
+  g:\visual studio\cpp\inheritance_test\inheritance_test\derived.cpp(18): note: or could be the 'b' in base 'ClassB'

@@ -1,0 +1,1 @@
+It does not matter in which order the two classes are inherited or the constructors are called. If they have varibles with same name it will always give ambiguity error. 
